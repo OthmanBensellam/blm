@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libtools.so -o libtools.so CMakeFiles/tools.dir/src/tools.cpp.o 

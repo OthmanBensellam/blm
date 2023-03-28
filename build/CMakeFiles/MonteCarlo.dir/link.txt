@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libMonteCarlo.so -o libMonteCarlo.so CMakeFiles/MonteCarlo.dir/src/MonteCarlo.cpp.o 
